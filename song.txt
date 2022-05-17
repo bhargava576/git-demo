@@ -1,2 +1,5 @@
 song primary
 another change made on github directly
+
+
+added some more lines for git gui&
